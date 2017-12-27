@@ -325,7 +325,7 @@ a:hover {
     top: 0;
     left: 0;
     height: 100%;
-    background-image: url(http://static.reverland.com/images/xno-image.png.pagespeed.ic.KtLDeVTbz6.png);
+    background-image: url(url(../images/xno-image.jpg));
     background-size: contain;
     background-position: 50%
 }
@@ -1254,7 +1254,7 @@ button[type="button"].btn-no-style:focus {
 .background-home-news {
     height: 500px;
     width: 100%;
-    background: url(http://static.reverland.com/images/slide01.jpg);
+    background: url(../images/slide01.jpg);
     background-size: cover;
     background-position: center
 }
@@ -1263,7 +1263,7 @@ button[type="button"].btn-no-style:focus {
     width: 100%;
     text-align: center;
     padding-top: 120px;
-    background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url(http://static.reverland.com/images/slide01.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url(../images/slide01.jpg);
     background-size: cover;
     background-position: center
 }
@@ -11630,7 +11630,7 @@ section.project article.featured {
     .background-home-news {
         height: 500px;
         width: 100%;
-        background: url(http://static.reverland.com/images/xslide001.jpg.pagespeed.ic.3Sc4ml_Ojl.jpg);
+        background: url(url(../images/xslide001.jpg));
         background-size: cover;
         background-position: center
     }
@@ -14687,7 +14687,7 @@ section.project article.featured {
     z-index: 200;
     width: 50px;
     height: 50px;
-    background-image: url(http://static.reverland.com/images/xmap_fullscreen_50x50.png.pagespeed.ic.BMbmxoR7g7.png);
+    background-image: url(../images/xmap_fullscreen.jpg));
     opacity: .8;
     transition: opacity linear .25s;
     -webkit-transition: opacity linear .25s;
